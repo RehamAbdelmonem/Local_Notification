@@ -1,0 +1,4 @@
+#Thu Jan 04 13:17:38 EET 2024
+base.0=G\:\\Documents\\Private\\Flutter Projects\\notification_project\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,1 @@
+ G:\\Documents\\Private\\Flutter\ Projects\\notification_project\\.dart_tool\\flutter_build\\52e0eefd30c3c44bf12f40a39ff73bbd\\native_assets.yaml: 
